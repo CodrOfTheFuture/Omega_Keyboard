@@ -1,6 +1,6 @@
 # OMEGA
 
-### total hours spent: 0.5
+### total hours spent: 6hr
 
 ## Day 1 - May 22nd
 
@@ -14,7 +14,6 @@ Features:
 * Orttholinear layout
 * Unique designs
 * Hot swabable
-* Maybe, an Oled screen
 
 ## Day 2 - May 30th
 
@@ -31,4 +30,35 @@ Now that I know what features I want in my keyboard, I need to know what parts o
 **Case**: My case will be 3d print, making it easy to make custom designs and cheap.
 
 
+## Day 3 - July 4th
+
+time spend: 5hrs
+
+I just spent a lot of time on creating a budget and doing more research on the parts I chose in day 2. So I have only change.
+I need to remove the screen from my project. This is because the nice!view is way too expensive and I rather just save up for a
+nice!view later on when I have the keyboard intead of using a cheap oled.
+
+
+### Budget
+| Item              | Price (USD) |
+|-------------------|--------------|
+| Nice!Nano         | $51.10       |
+| Lithium Battery   | $8.76        |
+| Solder Sockets    | $14.60       |
+| PCB (idk price)   | $21.90       |
+| 3D printed case   | $5.11        |
+| Switches          | $12.64       |
+| KeyCaps           | $21.90       |
+| Diodes            | $1.01        |
+| Kalih Hotswaps    | $1.01        |
+| Power Switch      | $2.19        |
+| Reset Button      | $2.19        |
+| Battery Jack      | $1.46        |
+| Screws Kits       | $3.23        |
+| **Total**         | **$166.13**  |
+
+
+In addition, I also did my schematics:
+
+![Schematics V1](Images/schematics#1.png)
 
