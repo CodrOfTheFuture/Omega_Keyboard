@@ -60,5 +60,5 @@ nice!view later on when I have the keyboard intead of using a cheap oled.
 
 In addition, I also did my schematics:
 
-![Schematics V1](Images/schematics#1.png)
+![Schematics V1](/Images/schematics.png)
 
