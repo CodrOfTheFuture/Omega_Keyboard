@@ -1,0 +1,6 @@
+[submodule "path/to/folder"]
+	path = path/to/folder
+	url = https://github.com/CodrOfTheFuture/zmk-config-omega
+[submodule "zmk-config-omega"]
+	path = zmk-config-omega
+	url = https://github.com/CodrOfTheFuture/zmk-config-omega

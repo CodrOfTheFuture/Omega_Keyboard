@@ -62,7 +62,7 @@ In addition, I also did my schematics:
 ![Schematics V1](/Images/schematics.png)
 
 
-### Day 4,5,6 - June 5th - 7th
+## Day 4,5,6 - June 5th - 7th
 
 time spent: 10hrs
 
@@ -81,7 +81,7 @@ PCB:
 ![Pcb1](./Images/pcb1.png)
 
 
-#### Day 7 - June 8th
+## Day 7 - June 8th
 
 time spent: 5hrs
 
