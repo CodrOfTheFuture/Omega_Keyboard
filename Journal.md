@@ -1,6 +1,6 @@
 # OMEGA
 
-### total hours spent: 16hr
+### total hours spent: 21 hrs
 
 ## Day 1 - May 22nd
 
@@ -79,3 +79,20 @@ Schematics:
 
 PCB:
 ![Pcb1](./Images/pcb1.png)
+
+
+#### Day 7 - June 8th
+
+time spent: 5hrs
+
+FINALLY! Today is the day I finished the Omega Project! In Day 7th, I doubled checked my schematics and pcb and made a case in onshape to 3d print. I also did the firmware (ZMK) which didnt take much time at all. The case isnt really complex at all, its just a bottom case and top case with the mounting holes, I also made sure it was low profile for my build.
+
+Here is the case design:
+
+![Case](./Images/OmegaCase.png)
+
+
+
+
+
+THANK YOU FOR READING
