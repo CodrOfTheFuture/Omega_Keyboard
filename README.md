@@ -34,5 +34,6 @@ Schematics:
 |Reset Button          | 5  | 0.17                           | https://lcsc.com/product-detail/Tactile-Switches_G-Switch-GT-TC041B-H036-L1N_C2686893.html          |
 |Battery Jack          | 5  | 0.71                           | https://lcsc.com/product-detail/image/S2B-PH-K-S-LF-SN_C173752.html          |
 |Screw Kit             | 1  | 3.26                           | https://www.aliexpress.com/item/1005008459241647.html  |
-|Shipement & other fees|    | 29.52                          | n/a                                                    |
-|Total                 |    | 123.53                         |                                                        |
+|Soldering Iron        | 1  | 13.98                           | https://www.amazon.com/Soldering-Adjustable-Temperature-Electronics-Desoldering/dp/B097XX76V4/  |
+|Shipement & other fees|    | 37.18                          | n/a                                                    |
+|Total                 |    | 145.97                         |                                                        |
