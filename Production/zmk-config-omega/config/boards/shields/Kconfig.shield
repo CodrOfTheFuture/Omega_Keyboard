@@ -1,0 +1,5 @@
+config SHIELD_OMEGA_LEFT
+    def_bool $(shields_list_contains,omega_left)
+
+config SHIELD_OMEGA_RIGHT
+    def_bool $(shields_list_contains,omega_right)

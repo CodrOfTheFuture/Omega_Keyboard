@@ -3743,7 +3743,7 @@
 			(uuid "5d13dc23-745f-4423-8e61-5440cad2c500")
 		)
 		(embedded_fonts no)
-		(model "/home/spaceman/hackclub/Omega_Project/scottokeebs/Extras/ScottoKicad/3dmodels/ScottoKeebs_Choc.3dshapes/Choc_V1.step"
+		(model "/home/username/hackclub/Omega_Project/scottokeebs/Extras/ScottoKicad/3dmodels/ScottoKeebs_Choc.3dshapes/Choc_V1.step"
 			(offset
 				(xyz 0 0 0)
 			)
