@@ -68,7 +68,7 @@ time spent: 10hrs
 
 After reflecting more about my componenet choices on day 3, I choose to use a normal 128x32 oled screen from aliexpress instead of a nice!view since I still really want a display but dont want to pay that much. In addition, I have tweaked a bit of things in the budget like alternating some of my items to aliexpress (solder sockets, etc). For these 3 days, I have been focusing on building my pcb and schematics and having a efficient pcb which suits my needs. I've also done lots of research of how I was going to make the layout of my pcb. A great source that helped me was the this [repo](https://github.com/foostan/crkbd/?tab=readme-ov-file) with a great diagram here:
 
-![Corne Layout Diagram](https://private-user-images.githubusercontent.com/736191/290963885-87ebea53-3c5c-42a1-97b3-f9292e4dacae.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE5NDQ3ODAsIm5iZiI6MTc1MTk0NDQ4MCwicGF0aCI6Ii83MzYxOTEvMjkwOTYzODg1LTg3ZWJlYTUzLTNjNWMtNDJhMS05N2IzLWY5MjkyZTRkYWNhZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcwOFQwMzE0NDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iNmYxNTNhZTg3MzIzNWY3N2U5NWIwNzI1ZDBiODU4YzIwODI5NGQwODRhYjk3NmFlM2Y1ODlmYmZjZmNkZGY1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.usJtd24eCMEThyGRKWSeMFYYO3ZEaceI-OPpY7Z2USQ)
+![Corne Layout Diagram](./Images/layout.png)
 
 
 My current building status for my pcb and schematics are not 100% finished but they are mostly finished I would say. Here is the progress:
